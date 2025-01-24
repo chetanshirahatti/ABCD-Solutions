@@ -1,6 +1,7 @@
 # ABCD-Solutions
+
 This is a demo Git Repo.
 
-Author - Chetan Shirahatti
+Author - Chetan Shetty
 <br>
 A B C D
